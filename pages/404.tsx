@@ -5,7 +5,7 @@ const NotFoundPage = () => (
   <Layout title="Coming Soon - KAZOMO">
     <img
       src="/images/xera.svg"
-      alt="Themeptation "
+      alt="Kazomo "
       className="absolute h-96 -top-20 -right-16 lg:right-5 lg:top-10 animate-blob"
     />
     <img

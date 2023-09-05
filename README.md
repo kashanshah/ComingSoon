@@ -1,4 +1,4 @@
-# Coming Soon - Clean Coming Soon Template (Tailwind CSS, NextJs) by Themeptation
+# Coming Soon - Kazomo
 
 ## How to use it?
 
@@ -30,5 +30,5 @@ yarn build & yarn export
 
 Go to out folder and you'l find the HTML version
 
-[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/themeptation/ComingSoon)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/themeptation/ComingSoon)
+[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/kashanshah/kazomo)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/kashanshah/kazomo)
