@@ -46,7 +46,7 @@ const IndexPage = () => {
           <h3 className="font-light text-xl uppercase tracking-wider">
             Coming soon
           </h3>
-          <h1 className="text-7xl lg:text-9xl font-extrabold">ZAKOMO</h1>
+          <h1 className="text-7xl lg:text-9xl font-extrabold">KAZOMO</h1>
           <p className="text-xl lg:text-2xl tracking-wide mx-10 lg:max-w-xl lg:mx-auto">
             We are ready to fly!
           </p>
