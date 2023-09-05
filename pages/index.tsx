@@ -52,7 +52,7 @@ const IndexPage = () => {
           </p>
         </div>
         <form className="relative z-10 mx-10 lg:max-w-xl lg:mx-auto" data-netlify="true" id='waitlist-form' name='waitlist-form' method='POST' onSubmit={handleSubmit}>
-          <input type="hidden" name="form-name" value="waitlist"/>
+          <input type="hidden" name="form-name" value="waitlist-form"/>
           <input
             required
             type="email"
